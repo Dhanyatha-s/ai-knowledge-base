@@ -1,6 +1,5 @@
 # AI Knowledge Based Platfrom
 
-# AI Knowledge Base Platform
 
 ## 📌 Overview
 An AI-powered platform that enables intelligent document search and retrieval from SharePoint/Google Drive using CrewAI agents.
@@ -16,7 +15,7 @@ An AI-powered platform that enables intelligent document search and retrieval fr
 ## 🚀 Setup Instructions
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/yourusername/ai-knowledge-base.git
+   git clone https://github.com/Dhanyatha-s/ai-knowledge-base.git
    cd ai-knowledge-base
-```
+
 
